@@ -1,0 +1,1 @@
+Exercises to practice JavaScript skills with jQuery.
