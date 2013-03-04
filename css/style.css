@@ -36,4 +36,8 @@ header#header-block {width: 72.9%;margin: 0 13.541666666666666666666666666667%;}
 .ex-hover{background: #ff66cc !important;}
 
 #practice-box-container {position: relative;}
-#practice-box-container > div {width: 100%; position: absolute; border-radius:8px;border:1px solid; display: none;}
+#practice-box-container h3 {cursor: pointer;}
+ul.effects-list li{float:left; list-style: none; }
+p.show-hide, p.fade-inout, p.slide-updown{display: none;}
+#practice-box-container > div {width: 100%; position: absolute; border-radius:8px;border:1px solid; display: none; left: -2px;}
+div.show-hide,div.fade-inout, div.slide-updown{display: none; border-top: 1px solid;}
