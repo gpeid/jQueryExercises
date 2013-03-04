@@ -28,4 +28,12 @@ html[xmlns] .clearfix {
 
 header#header-block {width: 72.9%;margin: 0 13.541666666666666666666666666667%;}
 #container-block {width: 72.9%;margin: 0 13.541666666666666666666666666667%; border-top: 1px solid #ccc;}
-#exercise-box-container div {float: left; margin: 0 5px;}
+#exercise-box-container div {float: left; margin: 0 0 -1px -1px; width: 232px; height: 132px; border:1px solid; background:#FFA500; cursor: pointer;}
+#exercise-box-container div:nth-child(1) {border-radius:8px 0 0 0;}
+#exercise-box-container div:nth-child(3) {border-radius:0 8px 0 0;}
+#exercise-box-container div:nth-last-child(1) {border-radius:0 0 8px 0;}
+#exercise-box-container div:nth-last-child(3) {border-radius:0 0 0 8px;}
+.ex-hover{background: #ff66cc !important;}
+
+#practice-box-container {position: relative;}
+#practice-box-container > div {width: 100%; position: absolute; border-radius:8px;border:1px solid; display: none;}

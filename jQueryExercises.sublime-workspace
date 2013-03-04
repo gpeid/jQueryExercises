@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h1",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"shtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/George Diep/Documents/GitHub/jQueryExercises/css/style.css",
+		"/C/Users/George Diep/Documents/GitHub/jQueryExercises/js/custom.js",
+		"/C/Users/George Diep/Documents/GitHub/jQueryExercises/index.html",
+		"/C/Users/George Diep/Documents/contractorconnection.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/GAC Cooling/gacfi/cities.txt",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/disaster-recovery-services-washington-dc.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/wind-damage-repair-in-washington-dc.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/contentsrestoration.html",
+		"/C/xampp/htdocs/arctic2/sites/all/themes/arcticairtm/arcticairtm.info",
+		"/C/xampp/htdocs/arctic2/sites/all/themes/arcticairtm/page-front.tpl.php",
+		"/C/xampp/htdocs/arctic2/sites/all/themes/arcticairtm/page.tpl.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/node.tpl.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/node-blog.tpl.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/custom.js",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/fourseasons.info",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/template.php",
+		"/C/xampp/htdocs/arctic2/.htaccess",
+		"/C/xampp/htdocs/arctic2/sites/default/settings.php",
+		"/C/xampp/htdocs/arctic2/includes/file.inc",
+		"/C/xampp/htdocs/arctic2/cache/perm/www.arcticac.com/files/js/js_102028c7b15dc03e577307c85dee8e9b.js_.js",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/Mobile_Detect 2.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/chimney-service-contact.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/custom.js",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/boarding-processor.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/registration-processor.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/boarding-form.html",
+		"/C/Users/George Diep/AppData/Local/Temp/7zO5ACE.tmp/backupbuddy_dat.php ",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/George Diep/AppData/Local/Temp/7zO52C3.tmp/.htaccess ",
+		"/C/xampp/htdocs/germantown.sql",
+		"/C/Users/George Diep/AppData/Local/Temp/7zODFA6.tmp/db_1.sql ",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/hitnodes.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/page.tpl.php",
+		"/C/Users/George Diep/Documents/GitHub/random/regex.md",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/xmlrpc.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/index.htm",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/common.js",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/SubNav.ascx",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/ProjectLink.ascx",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/Home.master",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/wp-config.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/xmlrpc 2.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/footer.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/footer 2.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/sidebar-footer.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/wp-links-opml 2.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/wp-links-opml.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/wp-register.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/phpinfo.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/.htaccess",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/custom.js",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-3/wp-count.php",
+		"/C/Users/George Diep/Documents/germantownvet/New folder/.htaccess",
+		"/C/xampp/htdocs/ruby-test/style.scss",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/listings.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/listing-204_Parkside_nearby.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/GoBrent/websites/siteupdated2.5.13/footer.ssi",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/listing-204_Parkside_specs.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/footer.ssi",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/listings-completed-transactions_Tammy.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-2/sellers-marketing-samples.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/GoBrent/footer.ssi",
+		"/C/Users/George Diep/Documents/! CLIENTS/GoBrent/websites/sitecopy2.7.13/footer.ssi",
+		"/C/Users/George Diep/Documents/! CLIENTS/Action Air/functions.php ",
+		"/C/Users/George Diep/Documents/! CLIENTS/Action Air/accitylist/accitylist.php ",
+		"/C/Users/George Diep/Documents/! CLIENTS/Action Air/accitylist/acinstallationcitylist.php ",
+		"/C/Users/George Diep/Documents/! CLIENTS/Action Air/acinstallationcitylist/heatingcitylist.php ",
+		"/C/Users/George Diep/Documents/GitHub/htmlStarter/index.html",
+		"/C/Users/George Diep/Documents/GitHub/random/template.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/George Diep/Documents/! CLIENTS/GoBrent/websites/sitecopy2.5.13/footer.ssi",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/esc.css",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/brent-form-processor 2.php",
+		"/C/Users/George Diep/Documents/examples/antispamform/multi-email-processor.php ",
+		"/C/Users/George Diep/Documents/GitHub/random/random.php ",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/brent-form-processor.php",
+		"/C/Users/George Diep/Documents/examples/antispamform/js/form.js",
+		"/C/Users/George Diep/Documents/! CLIENTS/State Systems/statecs/Ruby Files/pressurewashing/pw2/ms.txt",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/tpl_sidebar1.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/sidebars.css",
+		"/C/Users/George Diep/Documents/GitHub/random/random.js",
+		"/C/Users/George Diep/Documents/germantownvet/ - Copy.htaccess",
+		"/C/Users/George Diep/Documents/germantownvet/.htaccess",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/ms-rahal-jacqueline.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/header 2.php",
+		"/C/Users/George Diep/Desktop/style-ie9.css",
+		"/C/Users/George Diep/Documents/! CLIENTS/Shanco/Shanco Windows/websites/siteupdated1.14.13/simonton.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/Shanco/Shanco Windows/websites/siteupdated1.14.13/manufacturers.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/coopertown-form-processor.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/customcaptcha.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/style-ie7.css",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/style-chrome.css",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/index-19312.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/php.ini",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/Default.aspx",
+		"/C/IBackup for Windows/IBCOMMON/Session/Schedule 08-30-2012  01-00-41.txt",
+		"/C/Users/George Diep/Documents/! CLIENTS/Magnolia/mobilgmagplumbingupdated1.21.13/plumbing-coupons.php",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/fbgwall.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/generators.htm",
+		"/C/Users/George Diep/Documents/GitHub/random/sample.txt",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/common.asp",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/bottled-water-products.html",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/jquery.neosmart.fb.wall.css",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/jquery.neosmart.fb.wall.js",
+		"/C/Users/George Diep/Documents/! CLIENTS/State Systems/statecs/Ruby Files/technology/t2/ms.txt",
+		"/C/Users/George Diep/Documents/! CLIENTS/State Systems/statecs/Ruby Files/technology/t2/tn.txt",
+		"/C/Users/George Diep/AppData/Local/Temp/fz3temp-1/coupons.php",
+		"/C/Users/George Diep/Documents/! CLIENTS/shredding/websites/siteupdated1.15.13/contact_temp.php ",
+		"/C/Users/George Diep/Documents/! CLIENTS/shredding/websites/siteupdated1.15.13/content.php ",
+		"/C/Users/George Diep/Documents/! CLIENTS/Germantown Veterinary Clinic/newsite/.htaccess",
+		"/C/Users/George Diep/Documents/! CLIENTS/Germantown Veterinary Clinic/.htaccess",
+		"/C/Users/George Diep/Documents/! CLIENTS/shredding/websites/index.cfm",
+		"/C/Users/George Diep/Documents/! CLIENTS/Water Boy Inc/websites/siteupdated1.15.13/bottleless-water-coolers-tampa-fl.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/Water Boy Inc/websites/siteupdated1.15.13/bottleless-water-coolers-bradenton-fl.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/Water Boy Inc/websites/siteupdated1.15.13/bottleless-water-coolers-brandon-fl.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/Water Boy Inc/websites/siteupdated1.15.13/bottleless-water-coolers-clearwater-fl.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/Water Boy Inc/websites/siteupdated1.15.13/bottleless-water-coolers-miami-fl.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/Water Boy Inc/websites/siteupdated1.15.13/bottleless-water-coolers-venice-fl.html",
+		"/C/Users/George Diep/Documents/! CLIENTS/Water Boy Inc/websites/siteupdated1.15.13/bottleless-water-coolers-naples-fl.html"
+	],
+	"find":
+	{
+		"height": 263.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" id=\"click\\w",
+			"arctic",
+			"[\\r\\n]{2,}",
+			"DISALLOW_FILE_EDIT",
+			"1964",
+			"block_1",
+			"block_2",
+			"heating",
+			"ACInstallationCity_List",
+			"heating-citystate",
+			"HeatingCity_List",
+			"202-364-1700",
+			"$ ",
+			"RewriteRule",
+			" [R=301,L]",
+			"http://www.gaithersburgair.com/pages",
+			"RewriteRule ",
+			"RewriteRule ^",
+			"RewriteRule ",
+			"http://www.gaithersburgair.com",
+			"Redirect 301",
+			"window",
+			"–",
+			"&ndash;",
+			"feed",
+			"[\\r\\n]{2,}",
+			"Comments",
+			"width",
+			"form_wrp",
+			"[\\r\\n]{2,}",
+			"Clarksville",
+			"Pasadena",
+			"Bowie",
+			"Hanover",
+			"Annapolis",
+			"-",
+			"[\\r\\n]{2,}",
+			"9147",
+			"[\\r\\n]{2,}",
+			"basement",
+			"sprinkler",
+			"purple",
+			"]\n",
+			"ojinc.com",
+			"http://www.germantownvet.com",
+			"http://www.germantownvet.com/",
+			"blog/",
+			"blog",
+			",",
+			"$",
+			"document",
+			"[\\r\\n]{2,}",
+			"      ",
+			"html",
+			"heating-air-conditioning",
+			"Landing Page -",
+			"<br>",
+			"  ",
+			"—",
+			"<li>",
+			"</a>",
+			"<a (.*)\">",
+			"</a>",
+			"<a (.*)\">",
+			"<a name=\"heading-0\">",
+			"524",
+			"642",
+			"510",
+			"auto",
+			"play",
+			"For more information about our First Aid & Safety products and services or for a quote, contact",
+			"shower-doors",
+			"/images/banners/closet-systems/closet-slide5.jpg",
+			"closet-designers",
+			"/images/banners/fireplaces/fireplace-slide1.jpg",
+			"fireplace-installers",
+			"closet-designers",
+			"fireplace-installers",
+			"·        ",
+			"</a>",
+			"/",
+			"if(window.location.pathname=='",
+			"2012",
+			"Landing Page - ",
+			"mail",
+			"Landing Page - ",
+			"Live on Dev Site Due 29 Nov 2012",
+			"LIVE Due 29 Nov 2012",
+			"		LIVE Due 28 Nov 2012",
+			"»",
+			"/",
+			"</a>",
+			"</li>",
+			"<li>",
+			"title",
+			"<li>",
+			"<h2>",
+			"[\\r\\n]{2,}",
+			"http://www.germantownvet.com/",
+			"http://www.germantownvet.com",
+			"&nbsp;",
+			"http://www.germantownvet.com",
+			"  ",
+			"http://www.germantownvet.com",
+			"&nbsp;",
+			"  ",
+			"&nbsp",
+			"  ",
+			" –</strong> ",
+			" – </strong>",
+			"  ",
+			"VA",
+			"MD",
+			" ",
+			"</h2>",
+			"<h2>",
+			"<h2>(.*[a-z])</h2>",
+			"<h2>[.*]</h2>",
+			"</h2>",
+			"Information about",
+			"<h2>",
+			"[\\r\\n]{2,}",
+			"</p>\n\n\n\n\n<h3>",
+			"</blockquote>",
+			"<blockquote>",
+			"<h2>",
+			"</blockquote>\n\n\n\n\n<blockquote>",
+			"</h2>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"ACCity_List",
+			"ac-citystate",
+			"ACInstallationCity_List",
+			"240-283-4414",
+			"&ndash;",
+			"\\n",
+			"</p><p>\n",
+			"",
+			"400",
+			"510",
+			"&raquo;",
+			"\\n",
+			"</strong> - ",
+			"\\n",
+			"contact-us"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 453.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"102",
+				"cache/perm/www.arcticac.com/files/js/js_102028c7b15dc03e577307c85dee8e9b.js_.js"
+			],
+			[
+				"file.",
+				"includes/file.inc"
+			],
+			[
+				"settings",
+				"sites/default/settings.php"
+			],
+			[
+				"c",
+				"/C/xampp/htdocs/ruby-test/style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 838.0,
+		"selected_items":
+		[
+		],
+		"width": 1600.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}
