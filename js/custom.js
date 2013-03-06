@@ -1,6 +1,13 @@
 //	jQuery.noConflict();
 $(document).ready(function(){
 
+	$('.style-switch').click(function(){
+	    $('link[href="css/style.css"]').attr('href','css/style-alt.css');
+	    $(this).toggle();
+	});
+
+	$('body').fadeIn();
+
 	$('.field .field-type-text .field-field-teaser').siblings().css({'display' : 'none'});
 
 	$('div#exercise-box-container div').hover(
