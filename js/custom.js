@@ -20,7 +20,10 @@ $(document).ready(function(){
 	$('#exercise-box-container > div').click(function(){
 		var className = $(this).attr('class');
 		$('#practice-box-container > div').fadeOut(1000);
-		$('#practice-box-container > div.' + className).fadeToggle(1000);
+		$('#practice-box-container > div.' + className).fadeToggle(1000).children('ul').children().children().each(function(){
+			$(this).fadeIn(2000);
+		});
+
 	});
 
 
@@ -53,9 +56,6 @@ $('a.fade-inout').click(function(){
 $('a.slide-updown').click(function(){
     $('div.slide-updown').slideToggle();
 });
-
-
-
 
 // Show Hide
 	$('h3.show').click(function(){

@@ -44,3 +44,4 @@ div.show-hide,div.fade-inout, div.slide-updown{display: none; border-top: 1px so
 
 .style-switch {position: absolute;right: 0;top: 30px;}
 .style-switch a {font-size: 10px;}
+#practice-box-container div > ul li a {display: none;}
